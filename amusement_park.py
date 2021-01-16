@@ -8,3 +8,6 @@ elif age<65:
 elif age>=65:
     price=20
 print(f"the admission fee is ${price}")
+
+
+print(f"This is the latest price tag {price}")
