@@ -11,3 +11,5 @@ print(f"the admission fee is ${price}")
 
 
 print(f"This is the latest price tag {price}")
+
+print("Hello 🚀 ")
