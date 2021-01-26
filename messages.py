@@ -1,0 +1,6 @@
+def show_messages():
+    print("here is a series of messages: ")
+    for message in messages:
+        print(message)
+messages=['hello','hey','good luck','buenos dias','see you']
+show_messages()
