@@ -1,3 +1,3 @@
 import pizzas
-pizzas.making_pizza(16,'pepperoni')
-pizzas.making_pizza(12,'pepperoni','extra cheese','green pepper')
+pizzas.make_pizza(16,'pepperoni')
+pizzas.make_pizza(12,'pepperoni','extra cheese','green pepper')
