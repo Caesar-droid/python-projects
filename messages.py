@@ -4,3 +4,5 @@ def show_messages():
         print(message)
 messages=['hello','hey','good luck','buenos dias','see you']
 show_messages()
+print("\U0001F600")
+print("\U0001F618")
