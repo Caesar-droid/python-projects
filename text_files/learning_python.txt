@@ -1,0 +1,4 @@
+In Python you can create classes.
+In Python you can separate modules
+In Python you can create function.
+In Python you can read from a file.
