@@ -6,5 +6,6 @@ for filename in filenames:
             contents=f.read()
             print(contents)
     except FileNotFoundError:
-        print("Sorry, I can't find that file.")
+        pass
+        # print("Sorry, I can't find that file.")
         

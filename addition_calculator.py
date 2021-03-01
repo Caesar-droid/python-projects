@@ -10,7 +10,8 @@ while True:
             break
         y = int(y)
     except ValueError:
-        print("Sorry,I really needed a number.")
+        pass 
+        # print("Sorry,I really needed a number.")
     else:
         sum = x+y
         print("The sum of "+ str(x) + " and " + str(y) + " is " + str(sum)+".")
